@@ -1,0 +1,8 @@
+Game Number, Win Status, Attempts, Max Attempts
+1,True,5,7
+2,True,5,7
+3,True,4,7
+4,False,2,7
+5,True,1,7
+6,False,7,7
+7,True,6,7
